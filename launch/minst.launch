@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="fcu_serial" type="minst.py" name="minst_node" output="screen"/>
+</launch>

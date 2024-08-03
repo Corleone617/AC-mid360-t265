@@ -1,0 +1,2 @@
+uint8 waypoint
+uint8 upORdown

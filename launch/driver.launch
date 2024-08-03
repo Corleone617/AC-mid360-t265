@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="fcu_serial" type="t265_node" name="t265_node" output="screen"/>
+</launch>
